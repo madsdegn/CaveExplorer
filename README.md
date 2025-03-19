@@ -6,4 +6,5 @@ It is a game you can play in the terminal of your IDE. The goal is to collect as
 
 ## How is it made?
 Language: Java
+
 The code consists of mulitpe different methods each controling a specific part of the game. After having handed in the assignment I realise that the player movement and gameboard each should have been different classes, which would have made the code more compact and easier to understand.
