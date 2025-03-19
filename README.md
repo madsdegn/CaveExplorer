@@ -1,5 +1,5 @@
 # CaveExplorer
-This is the final assignment in my Essential Computing class at Roskilde University. It is a "mini-project" as our professor called it. This is the first real programming class I have taken at Roskilde University.
+This is the final assignment in my Essential Computing class at Roskilde University. It is a "mini-project" as our professor called it. This is the first programming class as part of my Computer Science/Informatics bachelor I am taking at Roskilde University.
 
 ## What is it?
 It is a game you can play in the terminal of your IDE. The goal is to collect as many points as possible, without moving into any traps, and then exiting the cave.
